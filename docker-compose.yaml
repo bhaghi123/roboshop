@@ -1,6 +1,6 @@
-#this is my edit 
-#this is to check git conflicts 
 
+#this is docker compose file 
+>>>>>>> refs/remotes/origin/main
 version: "3.9"
 networks:
   roboshop:
